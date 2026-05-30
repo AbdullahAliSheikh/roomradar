@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.expire_boosts() FROM PUBLIC, anon, authenticated;
